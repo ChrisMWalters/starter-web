@@ -1,2 +1,4 @@
 # ignore generated OS files
 .DS_Store
+*.log
+/log
